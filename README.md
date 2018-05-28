@@ -1,4 +1,4 @@
-# EE239 Neural Networks and Deep Learning Project
+# Neural Networks and Deep Learning Project
 
 (Final Project Grade: 100/100)
 
